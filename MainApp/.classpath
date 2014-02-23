@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/hibernate/hibernate-core/3.6.3.Final/hibernate-core-3.6.3.Final.jar" sourcepath="C:/Users/Administrator/.m2/repository/org/hibernate/hibernate-core/3.6.3.Final/hibernate-core-3.6.3.Final-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/hibernate/hibernate-entitymanager/3.6.3.Final/hibernate-entitymanager-3.6.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/dimensions company/OpsourceSimpleApp/OpsourceSimpleApp/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hibernate-3.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/hibernate-3.0/hibernate-3.0/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/hibernate/hibernate-commons-annotations/3.2.0.Final/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Downloads/slf4j-1.7.6/slf4j-1.7.6/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/javax/transaction/jta/1.1/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/antlr/antlr/2.7.6/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/dimensions company/OpsourceSimpleApp/OpsourceSimpleApp/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-aop-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-aspects-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-beans-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-build-src-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-context-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-core-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-hibernate2-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/spring-tx-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/springframework/spring-expression/3.2.3.RELEASE/spring-expression-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/springframework/spring-test/3.2.3.RELEASE/spring-test-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/springframework/spring-test-mvc/1.0.0.M1/spring-test-mvc-1.0.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/dbunit/dbunit/2.4.8/dbunit-2.4.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/hsqldb/hsqldb/1.8.0.7/hsqldb-1.8.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JARS/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
